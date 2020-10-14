@@ -1,0 +1,27 @@
+_repo: El-corazon-juglar_63378
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Urbina, Luis G. (Luis Gonzaga)
+    alias: Urbina, Luis Gonzaga
+    birthdate: 1864
+    deathdate: 1934
+    gutenberg_agent_id: '52412'
+    url: http://www.gutenberg.org/2009/agents/52412
+    wikipedia: https://es.wikipedia.org/wiki/Luis_Gonzaga_Urbina#Obra_po%C3%A9tica
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63378'
+  lccn: '29004028'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexican poetry'
+- !lcc 'PQ'
+- GITenberg
+title: El corazón juglar
+url: http://www.gutenberg.org/ebooks/63378
